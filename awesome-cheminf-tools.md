@@ -25,6 +25,8 @@
 ## Confidence estimation
 - Joint Coverage Regions: [code](https://github.com/zhanran-lin/JCR) + [paper](https://arxiv.org/abs/2303.00203)
 
+## Educational materials
+- [Deep Learning for Molecules and Materials Book](https://dmol.pub/)
 
 ## Template
 - Title: [code]() + [paper]()
