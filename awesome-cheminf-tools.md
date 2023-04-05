@@ -15,6 +15,7 @@
 - MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder: [code](https://github.com/mhlee216/MGCVAE) + [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487)
 - GuacaMol: Benchmarking Models for De Novo Molecular Design: [code](https://github.com/BenevolentAI/guacamol) + [paper](https://arxiv.org/abs/1811.09621)
 - Molecular Sets (MOSES): A benchmarking platform for molecular generation models: [code](https://github.com/molecularsets/moses) + [paper](https://arxiv.org/abs/1811.12823)
+- 
 
 ## xgboost and related methods
 - Tuning gradient boosting for imbalanced bioassay modelling with custom loss functions: [code](https://github.com/dahvida/gradient_boosting_CLF) + [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00657-w)
