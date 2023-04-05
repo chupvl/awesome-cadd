@@ -6,3 +6,6 @@
 
 ## Symbolic Regression
 - [PySR: High-Performance Symbolic Regression in Python](https://github.com/ur-whitelab/PySR)
+
+## XAI
+- [PiML: An integrated Python toolbox for interpretable machine learning](https://github.com/SelfExplainML/PiML-Toolbox)
