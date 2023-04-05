@@ -17,5 +17,9 @@
 ## Protein-related
 - [gget is a free, open-source command-line tool and Python package that enables efficient querying of genomic databases](https://github.com/pachterlab/gget)
 
+## Confidence estimation
+- Joint Coverage Regions: [code](https://github.com/zhanran-lin/JCR) + [paper](https://arxiv.org/abs/2303.00203)
+
+
 ## Template
 - Title: [code]() + [paper]()
