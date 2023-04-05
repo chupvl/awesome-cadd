@@ -1,2 +1,2 @@
 # awesome-cadd
-Awesome CADD repositories
+Links/tools/code/papers for computer aided drug design discovery
