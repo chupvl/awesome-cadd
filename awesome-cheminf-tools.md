@@ -2,6 +2,8 @@
 
 ## Cheminf DNN
 - Double-head Transformer Neural Network for Molecular Property Prediction: [code](https://github.com/songyuanbing6/dhtnn) + [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00700-4)
+- [Keras Graph Convolution Neural Networks](https://github.com/aimat-lab/gcnn_keras)
+- Transformer-CNN: [code](https://github.com/bigchem/transformer-cnn) + [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-020-00423-w)
 
 ## Generative
 - DrugEx: [code](https://github.com/CDDLeiden/DrugEx) + [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-023-00694-z)
@@ -12,6 +14,8 @@
 - A Graph VAE and Graph Transformer Approach to Generating Molecular Graphs: [code]() + [paper](https://arxiv.org/abs/2104.04345)
 - MGCVAE: Multi-Objective Inverse Design via Molecular Graph Conditional Variational Autoencoder: [code](https://github.com/mhlee216/MGCVAE) + [paper](https://pubs.acs.org/doi/10.1021/acs.jcim.2c00487)
 
+## xgboost and related methods
+- Tuning gradient boosting for imbalanced bioassay modelling with custom loss functions: [code](https://github.com/dahvida/gradient_boosting_CLF) + [paper](https://jcheminf.biomedcentral.com/articles/10.1186/s13321-022-00657-w)
 
 ## Scaffold-hoping
 - Deep Scaffold Hopping with Multi-modal Transformer Neural Networks: [code](https://github.com/prokia/deepHops) + [paper](https://chemrxiv.org/engage/chemrxiv/article-details/60c75035f96a005e48287d8f)
