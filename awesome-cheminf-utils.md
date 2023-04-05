@@ -2,6 +2,7 @@
 
 ## Large projects
 - Oloren ChemEngine: [publication](https://chemrxiv.org/engage/chemrxiv/article-details/6350b9d186473a47d31a8492) + [code](https://chemengine.org/)
+- OpenOChem: [code](https://github.com/openochem/openochem) + [Igor Tetko Lab site](https://www.helmholtz-munich.de/en/stb/research-groups/tetko-lab)
 
 ## Compound standardization
 - [PharminfoVienna](https://github.com/PharminfoVienna/Chemical-Structure-Standardisation)
