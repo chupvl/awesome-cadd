@@ -14,5 +14,8 @@
 ## Bioisosteric  replacement
 - [Bioisosteric Replacements at Cambridge MedChem Consulting](https://www.cambridgemedchemconsulting.com/resources/bioisoteres/)
 
+## Protein-related
+- [gget is a free, open-source command-line tool and Python package that enables efficient querying of genomic databases](https://github.com/pachterlab/gget)
+
 ## Template
 - Title: [code]() + [paper]()
