@@ -32,6 +32,20 @@
 ## Confidence estimation
 - Joint Coverage Regions: [code](https://github.com/zhanran-lin/JCR) + [paper](https://arxiv.org/abs/2303.00203)
 
+## Docking: protein-ligand
+- [RxDock](https://github.com/rxdock/rxdock)
+- [gnina](https://github.com/gnina/gnina)
+- [dockingML: a docking, MD, machine learning pipeline for target specific drug discovery](https://github.com/zhenglz/dockingML)
+- [Deep docking (DD) is a deep learning-based tool developed to accelerate docking-based virtual screening](https://github.com/jamesgleave/DD_protocol)
+- [GNN-Dove is a computational tool using graph neural network that can evaluate the quality of docking protein-complexes](https://github.com/kiharalab/GNN_DOVE)
+- [Molecular docking with Alchemical Interaction Grids](https://github.com/CCBatIIT/AlGDock)
+
+## Docking: protein-protein
+- [EquiDock: Independent SE(3)-Equivariant Models for End-to-End Rigid Protein Docking](https://github.com/octavian-ganea/equidock_public)
+- [Megadock](https://github.com/akiyamalab/MEGADOCK)
+- [LightDock](https://github.com/lightdock/lightdock)
+
+
 ## Educational materials
 - [Deep Learning for Molecules and Materials Book](https://dmol.pub/)
 
