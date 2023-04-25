@@ -14,3 +14,14 @@
 
 ### Hepatotoxicity
 - [Tandem mass tag-based quantitative proteomic profiling identifies candidate serum biomarkers of drug-induced liver injury in humans](https://www.nature.com/articles/s41467-023-36858-6)
+
+### Plasma Protein Binding
+- [Stereoselective binding of chiral drugs to plasma proteins](https://www.nature.com/articles/aps201378)
+- [Protein Binding: Do We Ever Learn?](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC3122431/) - on in vivo vs in vitro difference
+- [Predicting Volume of Distribution in Humans: Performance of In Silico Methods for a Large Set of Structurally Diverse Clinical Compounds](https://dmd.aspetjournals.org/content/49/2/169)
+- [The Clinical Relevance of Plasma Protein Binding Changes](https://link.springer.com/article/10.1007/s40262-012-0018-5)
+- [The effect of plasma protein binding on in vivo efficacy: misconceptions in drug discovery](https://www.nature.com/articles/nrd3287)
+- [Rational Use of Plasma Protein and Tissue Binding Data in Drug Design](https://pubs.acs.org/doi/10.1021/jm5007935)
+- [Plasma protein binding: from discovery to development](https://pubmed.ncbi.nlm.nih.gov/23798314/)
+- [Predicting Fraction Unbound in Human Plasma from Chemical Structure: Improved Accuracy in the Low Value Ranges](https://pubs.acs.org/doi/10.1021/acs.molpharmaceut.8b00785)
+- [Toward Consensus on Correct Interpretation of Protein Binding in Plasma and Other Biological Matrices for COVID-19 Therapeutic Development](https://ascpt.onlinelibrary.wiley.com/doi/10.1002/cpt.2099)
